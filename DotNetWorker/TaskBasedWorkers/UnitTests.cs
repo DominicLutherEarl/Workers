@@ -46,7 +46,7 @@ public class WorkerTests
         var workerData = new WorkerData();
 
         // Act
-        worker.Run(workerData);
+        worker.Run();
 
         // Assert
         // Here you would assert that the worker did its work

@@ -1,15 +1,15 @@
 public class Worker
 {
-    WorkerData _workerData = null;
-    public void Run(WorkerData workerData)
+    public WorkerData? _workerData = null;
+    public void Run()
     {
-        Console.WriteLine(workerData.message.ToString());
+        Console.WriteLine(_workerData?.message?.ToString());
     }
 
     public Task GetStartedWorker(WorkerData workerData)
     {
         _workerData = workerData;
-        Task worker = new(() => {this.Run(workerData);});
+        Task worker = new(() => {this.Run();});
         worker.Start();
         return worker;
     }
