@@ -1,0 +1,15 @@
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/bin/Debug/net8.0/ThreadBasedWorkers
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/bin/Debug/net8.0/ThreadBasedWorkers.deps.json
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/bin/Debug/net8.0/ThreadBasedWorkers.runtimeconfig.json
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/bin/Debug/net8.0/ThreadBasedWorkers.dll
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/bin/Debug/net8.0/ThreadBasedWorkers.pdb
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/ThreadBasedWorkers.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/ThreadBasedWorkers.AssemblyInfoInputs.cache
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/ThreadBasedWorkers.AssemblyInfo.cs
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/ThreadBasedWorkers.csproj.CoreCompileInputs.cache
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/ThreadBasedWorkers.sourcelink.json
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/ThreadBasedWorkers.dll
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/refint/ThreadBasedWorkers.dll
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/ThreadBasedWorkers.pdb
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/ThreadBasedWorkers.genruntimeconfig.cache
+/workspaces/Workers/DotNetWorker/ThreadBasedWorkers/obj/Debug/net8.0/ref/ThreadBasedWorkers.dll

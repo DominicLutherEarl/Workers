@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "V23w7/DQYjIqAk7S6o7ih7QnJY65+24JFvFEL/VB+O47vLP2SSEhUxZk5ydxLHjh+rtxPsY1JNApTeoKUGBAVg==",
+  "success": true,
+  "projectFilePath": "/workspaces/Workers/DotNetWorker/TaskBasedWorkers/TaskBasedWorkers.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/home/codespace/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
