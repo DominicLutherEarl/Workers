@@ -1,4 +1,4 @@
-# Workers
+# Workers ==== This repo attempts to create a background worker process that satifies the requirements below. Various stacks are to be leveraged and compared to get the best fit. As of 14 March 2024, it is a work in progress.
 Requirements:
 1. Create a application that can run configurable tasks with max concurrency and throughputs.
 2. Have data to show the concurrency & memory use.
