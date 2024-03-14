@@ -7,5 +7,6 @@ Requirements:
 
 NFR: 
 1. No constants in code.
-2. Out of scope:
+2. Minimal footprint : installation should not require prerquisites and total installation (including runtimes, shared libraries and native components together should be minimal); minimal start-up time (less than 1s);
+3. Out of scope:
    Logging. Can be injected later as required.
